@@ -1,0 +1,12 @@
+--the quiz app =>
+the info about a quiz app:
+A->having a score the score will be show in the last step->
+B->having a button ->when you click it the quistion will be change and the score save in your score state
+c->if the quistion finish the the score will show in component the name is show_result 
+d->the component show_result having a state to show you the component after the quistion finish
+----------------------------------------------------------------------------------------------
+we have an option 
+1-state for a quistion [current ,setcurrent]->compare the length of data with current and will be update with after clicked
+2-score->will be update after every change quistion
+3-to  show_result->false or true when the quistion if finish the show_result will be true and show the component about show_result
+4-clicked_option->will be zero and change when click any button of option 
